@@ -2,4 +2,4 @@
 
 - implemented in JavaScript with an interactive front-end
 
-Click here(https://rpsinjs.netlify.app/) to view it online!
+[Click here](https://rpsinjs.netlify.app/) to view it online!
